@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **priyajkl2001@gmail.com, 📞7892509851**
 
-- 📄 Know about my experiences [file:///D:/RESUME/Resume_1.pdf](file:///D:/RESUME/Resume_1.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
