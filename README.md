@@ -1,14 +1,15 @@
 # Hi there 👋, I'm Priya Hegde! 🚀  
 
-🎉 As an aspiring **data analyst**, I am passionate about **turning data into actionable insights.** 🎄  
-I have a strong foundation in: 
+##🎉 As an aspiring **data analyst**, I am passionate about **turning data into actionable insights.** 🎄  
+I have a strong foundation in: ##
+
    ✅ **SQL**  
    ✅ **Power BI**  
    ✅ **Excel**  
    ✅ **Python**
 
-I am eager to uncover **meaningful patterns and trends** using various data tools.  
-Committed to **continuous learning** and creating **impactful visualizations & analysis** as a fresher in data analytics.  
+##I am eager to uncover **meaningful patterns and trends** using various data tools.  
+Committed to **continuous learning** and creating **impactful visualizations & analysis** as a fresher in data analytics. ##
 
 
 ### 🔍 **What I Do**  
