@@ -22,9 +22,11 @@ Committed to **continuous learning** and creating **impactful visualizations & a
 💻 **Languages**: Python(NumPy, Pandas, Matplotlib, Data Analysis), SQL  
 📊 **Visualization**: Power BI, Matplotlib, Seaborn  
 🛠️ **Excel**: LOOKUP, Statistical analysis, Data cleaning
-📂 **Knowledge in Cloud Computing** (Azure)
+📂 **Knowledge in Cloud Computing(Azure)**
 
 
 ### 📫 **Let's Connect!**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/priyahegde123/)**       📧 **[Email](priyajkl2001@gmail.com)**
+🔗 **[LinkedIn](https://www.linkedin.com/in/priyahegde123/)**      
+
+📧 **[Email](priyajkl2001@gmail.com)**
 
