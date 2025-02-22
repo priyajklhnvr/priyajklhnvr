@@ -18,15 +18,15 @@ Committed to **continuous learning** and creating **impactful visualizations & a
 🔹 Perform **data wrangling & processing** for business intelligence  
 
 
-### ⚙️ **Tech Skill & Tools**  
-💻 **Languages**: Python(NumPy, Pandas, Matplotlib, Data Analysis), SQL  
+### ⚙️ **Tech Skills & Tools**  
+💻 **Languages**: Python (NumPy, Pandas, Matplotlib, Data Analysis), SQL  
 📊 **Visualization**: Power BI, Matplotlib, Seaborn  
-🛠️ **Excel**: LOOKUP, Statistical analysis, Data cleaning
-📂 **Knowledge in Cloud Computing(Azure)**
+🛠️ **Excel**: LOOKUP, Statistical analysis, Data cleaning  
+☁ **Cloud Knowledge**: Basic understanding of **Azure** 
 
 
 ### 📫 **Let's Connect!**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/priyahegde123/)**      
 
-📧 **[Email](priyajkl2001@gmail.com)**
+📧 **Email:** [priyahegde@example.com](mailto:priyahegde@example.com) 
 
