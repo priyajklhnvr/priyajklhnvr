@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Priya Hegde! 🚀  
+# Hi there 👋, I'm Priya Hegde! 🚀  
 
 🎉 As an aspiring **data analyst**, I am passionate about **turning data into actionable insights.** 🎄  
 I have a strong foundation in: 
