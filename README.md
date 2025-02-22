@@ -12,4 +12,4 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/priyahegde123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/priyahegde123" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyajklhnvr&show_icons=true&locale=en&layout=compact" alt="priyajklhnvr" /></p>
+
