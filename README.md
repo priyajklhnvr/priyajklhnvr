@@ -1,14 +1,9 @@
-# Hi there 👋, I'm Priya Hegde! 🚀  
+# Hi, I'm Priya Hegde 👋
 
-### 🎉 As an aspiring **data analyst**, I am passionate about **turning data into actionable insights.** 🎄 I have a strong foundation in: 
+## 🎯 Data Analytics Trainer | Aspiring Data Analyst 
 
-   ✅ **SQL**  
-   ✅ **Power BI**  
-   ✅ **Excel**  
-   ✅ **Python**
-
-### I am eager to uncover **meaningful patterns and trends** using various data tools. Committed to **continuous learning** and creating **impactful visualizations & analysis** as a fresher in data analytics. 
-
+I currently **work as a trainer**, delivering sessions on Advanced Excel, Power BI, Python, SQL and Data Analytics.
+I am actively building my skills in SQL, Power BI, Excel, and Python to transition into a Data Analyst role.
 
 ### 🔍 **What I Do**  
 🔹 Clean, analyze & visualize data to extract meaningful insights 📊  
@@ -20,8 +15,8 @@
 ### ⚙️ **Tech Skills & Tools**  
 💻 **Languages**: Python (NumPy, Pandas, Matplotlib, Data Analysis), SQL  
 📊 **Visualization**: Power BI, Matplotlib, Seaborn  
-🛠️ **Excel**: LOOKUP, Statistical analysis, Data cleaning  
-☁ **Cloud Knowledge**: Basic understanding of **Azure** 
+🛠️ **Advance Excel**: LOOKUP, Statistical analysis, Data cleaning  
+☁ **Machine Learning**: Regression, Classification, Model Evaluation
 
 
 ### 📫 **Let's Connect!**  
